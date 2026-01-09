@@ -20,7 +20,7 @@
 ## 🎁 What You're Getting
 
 This isn't just another PDF dump. This is a **structured knowledge system** designed to work with AI tools like:
-- **Cursor** / **Windsurf** / **VS Code** with AI extensions
+- **Cursor** / **Antigravity** / **VS Code** / **Windsurf** / **Claude Code** with AI extensions
 - **Claude** / **ChatGPT** / **Gemini** with file upload
 - Any AI that can parse structured knowledge
 
@@ -37,14 +37,14 @@ This isn't just another PDF dump. This is a **structured knowledge system** desi
 
 ## ⚡ Quick Start
 
-### Option 1: Use with Cursor/Windsurf (Recommended)
+### Option 1: Use with Cursor/Antigravity (Recommended)
 
 1. Clone this repo:
    ```bash
    git clone https://github.com/Pratikkadam254/Alex-Mentor-Knowledgebase.git
    ```
 
-2. Open the folder in **Cursor** or **Windsurf**
+2. Open the folder in **Cursor**
 
 3. The AI will automatically index the knowledgebase
 
@@ -103,7 +103,7 @@ Alex-Mentor-Knowledgebase/
 This knowledgebase is powerful, but sometimes you need a human to help you apply it to your specific situation.
 
 <p align="center">
-  <a href="https://cal.com/pratik-kadam/30min?overlayCalendar=true">
+  <a href="[https://cal.com/pratik-kadam/custom-ai-agent-consultation]">
     <img src="https://img.shields.io/badge/📅_Book_a_30_Min_Call-4F46E5?style=for-the-badge&logoColor=white" alt="Book a Call"/>
   </a>
 </p>
@@ -113,13 +113,13 @@ This knowledgebase is powerful, but sometimes you need a human to help you apply
 - Identify which playbooks apply to YOU
 - Create an action plan for the next 90 days
 
-👉 [**Book Your Free Strategy Call**](https://cal.com/pratik-kadam/30min?overlayCalendar=true)
+👉 [**Book Your consultation Call**](https://cal.com/pratik-kadam/custom-ai-agent-consultation)
 
 ---
 
 ## ⚠️ Disclaimer
 
-This is an **UNOFFICIAL, fan-made** compilation of publicly available resources related to Alex Hormozi and Acquisition.com. 
+This is an **UNOFFICIAL, fan-made** compilation related to Alex Hormozi and Acquisition.com. 
 
 - ❌ Not affiliated with Alex Hormozi
 - ❌ Not endorsed by Acquisition.com
@@ -136,10 +136,4 @@ MIT License - Use it, modify it, share it. Just keep the attribution.
 
 ---
 
-<p align="center">
-  <strong>⭐ Star this repo if it helps you build a better business!</strong>
-</p>
-
-<p align="center">
-  Made with 🖤 by <a href="https://cal.com/pratik-kadam/30min?overlayCalendar=true">Pratik Kadam</a>
-</p>
+## It is version 1 and more improvment will be dropped soon!
