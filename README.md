@@ -102,12 +102,6 @@ Alex-Mentor-Knowledgebase/
 
 This knowledgebase is powerful, but sometimes you need a human to help you apply it to your specific situation.
 
-<p align="center">
-  <a href="[https://cal.com/pratik-kadam/custom-ai-agent-consultation]">
-    <img src="https://img.shields.io/badge/📅_Book_a_30_Min_Call-4F46E5?style=for-the-badge&logoColor=white" alt="Book a Call"/>
-  </a>
-</p>
-
 **In 30 minutes, we'll:**
 - Review your current business stage
 - Identify which playbooks apply to YOU
