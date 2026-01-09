@@ -44,13 +44,13 @@ This isn't just another PDF dump. This is a **structured knowledge system** desi
    git clone https://github.com/Pratikkadam254/Alex-Mentor-Knowledgebase.git
    ```
 
-2. Open the folder in **Cursor**
+2. Open the folder in **Cursor**/**Antigravity**
 
 3. The AI will automatically index the knowledgebase
 
 4. Start asking business questions - the AI now thinks like Alex Hormozi!
 
-### Option 2: Use with ChatGPT/Claude
+### Option 2: Use with Codex/Claude Code
 
 1. Download as ZIP (Code → Download ZIP)
 2. Upload the `AGENT.md` file to your conversation
