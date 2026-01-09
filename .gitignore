@@ -1,0 +1,60 @@
+# ================================================
+# Alex Mentor Knowledgebase - Git Ignore
+# Fan-made Alex Hormozi Knowledgebase for AI Mentor Agents
+# ================================================
+
+# =========================
+# Audio Files (Too large for GitHub)
+# =========================
+*.mp3
+*.wav
+*.m4a
+*.aac
+*.flac
+*.ogg
+*.wma
+
+# =========================
+# Video Files (Too large for GitHub)
+# =========================
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wmv
+*.webm
+*.flv
+*.m4v
+
+# =========================
+# Large Binary Files
+# =========================
+*.iso
+*.dmg
+*.tar.gz
+*.zip
+*.rar
+*.7z
+
+# =========================
+# System Files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+
+# =========================
+# IDE & Editor Files
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# =========================
+# Personal/Private Files (if any slip through)
+# =========================
+**/personal/
+**/private/
