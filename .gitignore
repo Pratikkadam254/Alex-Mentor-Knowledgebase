@@ -58,3 +58,23 @@ desktop.ini
 # =========================
 **/personal/
 **/private/
+
+# Backup safety adds 2026-05-14
+node_modules/
+**/node_modules/
+.venv/
+**/.venv/
+venv/
+**/venv/
+__pycache__/
+**/__pycache__/
+.env
+*.env
+.env.local
+.env.*
+*.pyc
+.pnpm-store/
+.next/
+.nuxt/
+dist/
+.cache/
